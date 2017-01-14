@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=filePath
-comment0.target=TreeBuilder(java.lang.String)
-comment1.params=dictionaryPath
-comment1.target=PredictionTree\ buildDictionaryTree(java.lang.String)
-numComments=2
