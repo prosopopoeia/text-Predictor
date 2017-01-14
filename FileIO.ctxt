@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=java.lang.String\ getFileContents(java.lang.String)
+comment0.text=\r\n\ Takes\ a\ file\ path\ and\ returns\ a\ string\ representing\ the\ contents\ of\ the\ \r\n\ file\ found\ at\ given\ file\ path\r\n\ \r\n\ @param\ \ filename\ name\ of\ desired\ file\r\n\ @return\ String\ of\ contents\ of\ file\r\n
+numComments=1
